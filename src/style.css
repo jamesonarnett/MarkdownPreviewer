@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: rgb(130, 199, 136);
+}
+
+.Jall {
+  text-align: center;
+}
+
+h1,
+h2 {
+  text-decoration: underline;
+}
