@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: rgb(130, 199, 136);
+}
+
+.center {
+  text-align: center;
+}
+
+.textarea {
+  width: 100%;
+  font-size: 18px;
+  padding: 20px;
+  border-radius: 0px 20px;
+  outline: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#preview {
+  color: white;
+  padding: 60px;
+  text-align: left;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 20px 0px;
+}
