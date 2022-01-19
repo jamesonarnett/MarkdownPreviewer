@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: rgb(130, 199, 136);
+}
+
+h1,
+h2 {
+  text-decoration: underline;
+}
+
+.center {
+  text-align: center;
+}
+
+.LEFT {
+  width: 50%;
+  height: 100%;
+  text-align: center;
+}
+
+.RIGHT {
+  float: right;
+  width: 50%;
+  height: 100%;
+  margin-top: -52rem;
+  text-align: center;
+}
